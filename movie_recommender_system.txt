@@ -14,12 +14,12 @@ Select a movie from the dropdown.
 The system calculates the most similar movies using a pre-trained similarity matrix.
 Recommended movie names and their posters are displayed.
 Project Files: Due to the size of the files, the project is available for download from Google Drive:
-Download the project here OR (https://drive.google.com/drive/folders/14wAILzkZ2ui48EvMmOJ2nCpsiIt_-TNx?dmr=1&ec=wgc-drive-hero-goto)
+Download the project here OR https://drive.google.com/drive/folders/14wAILzkZ2ui48EvMmOJ2nCpsiIt_-TNx?dmr=1&ec=wgc-drive-hero-goto
 
 Setup Instructions:
 
 Clone the repository:
-git clone 
+git clone https://github.com/AnmolKumarSingh7/movie-recommender-system
 Install the required libraries:
 pip install -r requirements.txt
 
