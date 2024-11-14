@@ -19,8 +19,7 @@ Download the project here OR (https://drive.google.com/drive/folders/14wAILzkZ2u
 Setup Instructions:
 
 Clone the repository:
-git clone https://github.com/yourusername/repository-name.git
-
+git clone 
 Install the required libraries:
 pip install -r requirements.txt
 
