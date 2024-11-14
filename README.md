@@ -19,7 +19,7 @@ Download the project here OR https://drive.google.com/drive/folders/14wAILzkZ2ui
 Setup Instructions:
 
 Clone the repository:
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/AnmolKumarSingh7/movie-recommender-system
 
 Install the required libraries:
 pip install -r requirements.txt
